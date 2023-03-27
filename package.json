@@ -16,6 +16,7 @@
     "dotenv": "^16.0.3",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "is-binary-path": "^2.1.0",
     "langchain": "^0.0.41",
     "next": "13.2.4",
     "react": "18.2.0",

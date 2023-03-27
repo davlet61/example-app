@@ -10,6 +10,7 @@ specifiers:
   dotenv: ^16.0.3
   eslint: 8.36.0
   eslint-config-next: 13.2.4
+  is-binary-path: ^2.1.0
   langchain: ^0.0.41
   next: 13.2.4
   postcss: ^8.4.21
@@ -24,6 +25,7 @@ dependencies:
   dotenv: 16.0.3
   eslint: 8.36.0
   eslint-config-next: 13.2.4_j4766f7ecgqbon3u7zlxn5zszu
+  is-binary-path: 2.1.0
   langchain: 0.0.41_edcizxxoerr6j7jq7ypdx7r73y
   next: 13.2.4_biqbaboplfbrettd7655fr4n2y
   react: 18.2.0
